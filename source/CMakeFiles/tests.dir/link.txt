@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -Wall   CMakeFiles/tests.dir/tests.cpp.o  -o ../tests -rdynamic -lX11 -lpthread -lXrandr -lXi -lXxf86vm -lrt -lm -lGL 
